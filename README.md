@@ -1,5 +1,11 @@
-# python_for_kids
-Projects from the book "Python for kids. Playful introduction to programming" by Jason R. Briggs.
+# Python для детей. Самоучитель по программированию
+![Python для детей. Самоучитель по программированию](//python_for_kids.jpg "Python для детей. Самоучитель по программированию")
 
-2 final game projects from the book.
-In most, copying code from a book with the addition of small changes.
+
+Автор: Джейсон Бриггс | Ссылка на книгу: [Литрес](https://www.litres.ru/dzheyson-briggs/python-dlya-detey-samouchitel-po-programmirovaniu-23781112/ "Python для детей. Самоучитель по программированию")
+
+## Описание
+
+
+## 
+
